@@ -24,7 +24,7 @@ Welcome to 3kh0.github.io, your best option for unblocked games on the internet.
 
 You can access this project using the link below
 
-[https://3kh0.github.io](https://3kh0.github.io)
+[https://3rk0.netlify.app/](https://3rk0.netlify.app/)
 
 
 ## Host the website
